@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+   <!-- <Button
+        android:id="@+id/bt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="展开" />
+
+    <Button
+        android:id="@+id/bt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="重新设置text内容" />-->
+
+  <!--  <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"> </ScrollView>
+-->
+        <com.qf.moretextactivy.CollapsedTextView
+            android:id="@+id/tv"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:maxLines="6"
+            android:text="走进丽江古城北门，一大一小两架水车便映入眼帘。
+            这两驾连轴大水车是古城的标志性建筑，也是古城内最人声鼎沸的地方，
+            一年四季都挤满了留影和集合的游客，想要单独和水车合影一张必须眼尖手快。
+            r\n\r\n大水车前的石桥上，是拍摄水车的最佳地点。" />
+
+    <Button
+        android:id="@+id/bt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="查看全文" />
+
+
+</LinearLayout>
