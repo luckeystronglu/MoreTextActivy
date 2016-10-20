@@ -12,15 +12,10 @@ public class MainActivity extends AppCompatActivity {
 
 
     private ExpandableTextView expTv1;
-//    private TextView tv;
-//    private Button button;
-
-//    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        tv = (TextView) findViewById(R.id.expandable_text);
-//        button = (Button) findViewById(R.id.expandable_btn);
+
         expTv1 = (ExpandableTextView) findViewById(R.id.expand_text_view);
         mCollapsedStatus = new SparseBooleanArray();
 

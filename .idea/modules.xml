@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/3dviewpager/3dviewpager.iml" filepath="$PROJECT_DIR$/3dviewpager/3dviewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/MoreTextActivy.iml" filepath="$PROJECT_DIR$/MoreTextActivy.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/expandabletextview/expandabletextview.iml" filepath="$PROJECT_DIR$/expandabletextview/expandabletextview.iml" />

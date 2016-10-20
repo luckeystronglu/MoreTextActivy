@@ -1,1 +1,1 @@
-include ':app', ':moretexta2', ':expandabletextview'
+include ':app', ':moretexta2', ':expandabletextview', ':3dviewpager'
