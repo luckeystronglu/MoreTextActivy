@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int pagerWidth;
     private List<ImageView> imageViewList;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
